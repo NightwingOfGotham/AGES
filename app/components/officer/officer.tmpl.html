@@ -1,0 +1,50 @@
+<div class="officer">
+
+  <div class="officer_list">
+    <div ng-show="!officer.officer.length" class="no-fleets">
+      This officer does not exist.  Please consult the Datamancers on Technosphere IV for possible data integrity issues.
+    </div>
+
+    <div ng-repeat="officer in officer.officer" class="officer__list-info">
+      <dl>
+        <dt>Rank</dt>
+        <dd>{{ officer.rank }}</dd>
+
+        <dt>Name</dt>
+        <dd>{{ officer.name }}</dd>
+
+        <dt>Home Planet</dt>
+        <dd>{{ officer.homePlanet }}</dd>
+
+        <dt>Likes</dt>
+        <dd ng-repeat="like in officer.likes">
+          {{ like }}
+        </dd>
+
+        <dt>Dislikes</dt>
+        <dd ng-repeat="dislikes in officer.dislikes">
+          {{ dislikes }}
+        </dd>
+      </dl>
+    </div>
+  </div>
+
+  <ul class="officer_links">
+    <li>
+      <a href="" ng-click="officer.goToShip();">
+        Go back to ship officer roster
+      </a>
+    </li>
+    <li>
+      <a href="" ng-click="officer.goToFleet();">
+        Go back to fleet ship roster
+      </a>
+    </li>
+    <li>
+      <a href="" ng-click="officer.goToCommand();">
+        Go back to fleet roster
+      </a>
+    </li>
+  </ul>
+
+</div>

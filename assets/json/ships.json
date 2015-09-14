@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AGES Caligari",
+    "shipId": 13452,
+    "fleetId": 9,
+    "imageURL": "https://cdn3.iconfinder.com/data/icons/glypho-free/64/rocket-128.png"
+  },
+  {
+    "name": "AGES Asturias",
+    "shipId": 23116,
+    "fleetId": 2,
+    "imageURL": "http://www.icon100.com/up/3955/128/40-Space-ship.png"
+  },
+  {
+    "name": "AGES Dragonfly",
+    "shipId": 4352,
+    "fleetId": 7,
+    "imageURL": "http://www.icon100.com/up/3955/128/63-Space-intruders-ship.png"
+  }
+]

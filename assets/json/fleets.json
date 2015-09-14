@@ -1,0 +1,26 @@
+[
+  {
+    "name": "9th Fleet",
+    "motto": "Ex proelium, vitae!",
+    "fleetId": 9,
+    "imageURL": "http://www.icon100.com/up/4234/128/56-shield.png"
+  },
+  {
+    "name": "2nd Fleet",
+    "motto": "Ex astris, scientia!",
+    "fleetId": 2,
+    "imageURL": "https://cdn2.iconfinder.com/data/icons/windows-8-metro-style/128/physics.png"
+  },
+  {
+    "name": "7th Fleet",
+    "motto": "Ex logica, efficientia!",
+    "fleetId": 7,
+    "imageURL": "http://iconshow.me/media/images/Mixed/line-icon/png/128/data-128.png"
+  },
+  {
+    "name": "14th Fleet",
+    "motto": "Retirement is just beyond the next star!",
+    "fleetId": 14,
+    "imageURL": "https://cdn2.iconfinder.com/data/icons/windows-8-metro-style/128/beach.png"
+  }
+]

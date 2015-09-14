@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Grebik",
+    "rank": "Captain",
+    "officerId": 1,
+    "shipId": 13452,
+    "fleetId": 9,
+    "likes": ["Battle", "Extended Battle", "Overcoming Overwhelming Odds"],
+    "dislikes": ["Cowards"],
+    "homePlanet": "Virul"
+  },
+  {
+    "name": "Mary Henriquez",
+    "rank": "Admiral",
+    "officerId": 2,
+    "shipId": 23116,
+    "fleetId": 2,
+    "likes": ["Science", "Discovery", "Exoarcheology"],
+    "dislikes": ["Virulian Ale"],
+    "homePlanet": "Earth"
+  },
+  {
+    "name": "Command Progenitor 3",
+    "rank": "Captain",
+    "officerId": 3,
+    "shipId": 4352,
+    "fleetId": 7,
+    "likes": ["Data", "Logic", "Finite Loops"],
+    "dislikes": ["Feelings"],
+    "homePlanet": "Technosphere III"
+  },
+  {
+    "name": "Prince Sabourly, the Youthful",
+    "rank": "Commander",
+    "officerId": 4,
+    "shipId": 23116,
+    "fleetId": 2,
+    "likes": ["Attending balls", "Diplomacy", "Court"],
+    "dislikes": ["King Rifalth XVI, the Undying"],
+    "homePlanet": "Most Wonderous and Ever Prosperous Planet Eloth"
+  }
+]
